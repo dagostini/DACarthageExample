@@ -1,0 +1,18 @@
+{
+  "iOS" : [
+    {
+      "hash" : "221af93fbc4d25e8a00acacec58f14c15227d1d8bca438ba5fc182280d04ac9a",
+      "name" : "DASorting"
+    }
+  ],
+  "commitish" : "0.1.0",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "Mac" : [
+
+  ]
+}

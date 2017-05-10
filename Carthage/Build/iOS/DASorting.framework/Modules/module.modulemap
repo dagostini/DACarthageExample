@@ -1,0 +1,10 @@
+framework module DASorting {
+  umbrella header "DASorting.h"
+
+  export *
+  module * { export * }
+}
+
+module DASorting.Swift {
+    header "DASorting-Swift.h"
+}
